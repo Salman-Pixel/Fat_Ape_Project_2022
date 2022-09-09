@@ -1,2 +1,9 @@
 app/* linguist-documentation=false
 app/* linguist-vendored
+
+*.csharp linguist-detectable=false
+*.java linguist-detectable=false  
+*.js linguist-detectable=true 
+*.html linguist-detectable=true 
+*.xml linguist-detectable=false
+*.css linguist-detectable=true
